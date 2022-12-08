@@ -1,9 +1,4 @@
-# ANDRITZ Dev Assessment
+# Teste técnico Andritz
 
-This is a evaluation test for developer position.
-
-There are 2 tests:
-
-1: Imagine that we have a subtitle file (.srt) out of sync. The program must be able to shift the whole source file by the given timespan.
-
-2: Given a predefined list of links, the program must be able to calculate the possible paths between one point and another.
+Mesmo tendo uma experiencia com C, C++ e um pouco de C# tive grandes dificuldade em compreender a linguagem e os códigos.
+Porém, conseguir aprender um pouco, fui atrás de cursos de c# e de infinitos links no stack overflow.
